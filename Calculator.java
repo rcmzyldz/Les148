@@ -18,4 +18,8 @@ public class Calculator {
     public static  double mul(double n1, double n2){
         return (n1 * n2);
     }
+    public static  double sqrt(double n){
+        return Math.sqrt(n);
+    }
+
 }
